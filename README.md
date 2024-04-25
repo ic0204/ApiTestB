@@ -3,7 +3,7 @@
 Api Otomasyonunu testng.xml üzerinden "run" edildikten sonra , test sonuçlarını TestNG nin raporlama kısmında da görebilmek için; 
 
 Test-output->
-  - emailable-report.html - open ın ile istenilen browser ile sonuçları görebilirsiniz
+  - emailable-report.html - Open in ile istenilen browser ile sonuçları görebilirsiniz
 
 ![image](https://github.com/ic0204/ApiTestB/assets/14904764/6d2b4d4e-2fa2-4e63-a90b-b0e0e33b9f54)
 
